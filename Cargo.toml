@@ -1,0 +1,14 @@
+[package]
+
+name = "oyi"
+version = "0.1.0"
+description = "The Oyi programming language driver"
+edition = "2021"
+authors = ["Timmy Jose"]
+readme = "README.md"
+license-file = "LICENSE.md"
+homepage = "TBD"
+keywords = ["oyi", "interpreter", "tree-walking interpreter", "compiler", "LLVM", "Bootstrapped compiler"]
+categories = ["compilers"]
+
+[dependencies]
