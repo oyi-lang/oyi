@@ -4,7 +4,7 @@ The Oyi Programming language.
 
 ## Grammar
 
-For the language reference, see [Oyi Language Reference](https://github.com/timmyjose/project-oyi/tree/master/docs/core-language.md).
+For the language reference, see [Oyi Language Reference](https://github.com/timmyjose-compilers/oyi/tree/docs/core-language.md).
 
 ## LICENCE
 
