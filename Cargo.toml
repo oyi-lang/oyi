@@ -1,0 +1,8 @@
+[workspace]
+
+members = []
+
+[package]
+name = "oyi"
+version = "0.1.0"
+description = "The Oyi Programming Language"
